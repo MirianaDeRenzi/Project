@@ -104,14 +104,14 @@ void Temperatura()
     {
       Serial.println("Messaggio inviato con successo");
       client.setCallback(callback);
-     // delay(595000);
+      delay(595000);
 
       if(!client.connected())
       {
         reconnect();
       }
-      //delay(4000);
-      delay(10000);
+      delay(4000);
+      //delay(10000);
     } 
     else
     {
