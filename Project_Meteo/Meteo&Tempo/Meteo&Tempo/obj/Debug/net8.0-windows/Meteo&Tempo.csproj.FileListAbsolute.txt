@@ -1,0 +1,216 @@
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\bin\Debug\net8.0-windows\Meteo&Tempo.exe
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\bin\Debug\net8.0-windows\Meteo&Tempo.deps.json
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\bin\Debug\net8.0-windows\Meteo&Tempo.runtimeconfig.json
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\bin\Debug\net8.0-windows\Meteo&Tempo.dll
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\bin\Debug\net8.0-windows\Meteo&Tempo.pdb
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo_Tempo.Form1.resources
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.csproj.GenerateResource.cache
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.AssemblyInfoInputs.cache
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.AssemblyInfo.cs
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.csproj.CoreCompileInputs.cache
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.dll
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\obj\Debug\net8.0-windows\refint\Meteo&Tempo.dll
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.pdb
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.genruntimeconfig.cache
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\obj\Debug\net8.0-windows\ref\Meteo&Tempo.dll
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.csproj.AssemblyReference.cache
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.csproj.CopyComplete
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo_Tempo.Form_Chart.resources
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\bin\Debug\net8.0-windows\LiveCharts.WinForms.dll
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\bin\Debug\net8.0-windows\LiveCharts.dll
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo_Tempo.Properties.Resources.resources
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\Meteo&Tempo.exe
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\Meteo&Tempo.deps.json
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\Meteo&Tempo.runtimeconfig.json
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\Meteo&Tempo.dll
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\Meteo&Tempo.pdb
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\LiveCharts.WinForms.dll
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\LiveCharts.dll
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.csproj.AssemblyReference.cache
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo_Tempo.Form1.resources
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo_Tempo.Form_chart.resources
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo_Tempo.Properties.Resources.resources
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.csproj.GenerateResource.cache
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.AssemblyInfoInputs.cache
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.AssemblyInfo.cs
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.csproj.CoreCompileInputs.cache
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.csproj.CopyComplete
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.dll
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\refint\Meteo&Tempo.dll
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.pdb
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.genruntimeconfig.cache
+C:\Users\Miriana\Desktop\Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\ref\Meteo&Tempo.dll
+C:\Users\Miriana\Desktop\Personale_Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\Meteo&Tempo.exe
+C:\Users\Miriana\Desktop\Personale_Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\Meteo&Tempo.deps.json
+C:\Users\Miriana\Desktop\Personale_Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\Meteo&Tempo.runtimeconfig.json
+C:\Users\Miriana\Desktop\Personale_Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\Meteo&Tempo.dll
+C:\Users\Miriana\Desktop\Personale_Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\Meteo&Tempo.pdb
+C:\Users\Miriana\Desktop\Personale_Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Miriana\Desktop\Personale_Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Miriana\Desktop\Personale_Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Miriana\Desktop\Personale_Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Miriana\Desktop\Personale_Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Miriana\Desktop\Personale_Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\LiveCharts.WinForms.dll
+C:\Users\Miriana\Desktop\Personale_Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+C:\Users\Miriana\Desktop\Personale_Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\LiveCharts.dll
+C:\Users\Miriana\Desktop\Personale_Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Miriana\Desktop\Personale_Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Miriana\Desktop\Personale_Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Miriana\Desktop\Personale_Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Miriana\Desktop\Personale_Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Miriana\Desktop\Personale_Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Miriana\Desktop\Personale_Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Miriana\Desktop\Personale_Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Miriana\Desktop\Personale_Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.csproj.AssemblyReference.cache
+C:\Users\Miriana\Desktop\Personale_Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo_Tempo.Form1.resources
+C:\Users\Miriana\Desktop\Personale_Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo_Tempo.Form_chart.resources
+C:\Users\Miriana\Desktop\Personale_Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo_Tempo.Properties.Resources.resources
+C:\Users\Miriana\Desktop\Personale_Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.csproj.GenerateResource.cache
+C:\Users\Miriana\Desktop\Personale_Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miriana\Desktop\Personale_Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.AssemblyInfoInputs.cache
+C:\Users\Miriana\Desktop\Personale_Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.AssemblyInfo.cs
+C:\Users\Miriana\Desktop\Personale_Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.csproj.CoreCompileInputs.cache
+C:\Users\Miriana\Desktop\Personale_Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.csproj.CopyComplete
+C:\Users\Miriana\Desktop\Personale_Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.dll
+C:\Users\Miriana\Desktop\Personale_Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\refint\Meteo&Tempo.dll
+C:\Users\Miriana\Desktop\Personale_Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.pdb
+C:\Users\Miriana\Desktop\Personale_Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.genruntimeconfig.cache
+C:\Users\Miriana\Desktop\Personale_Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\ref\Meteo&Tempo.dll
+C:\Users\Miriana\Desktop\funzionante_progetto\VS_windows_form\pulsante_RESET\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\Meteo&Tempo.exe
+C:\Users\Miriana\Desktop\funzionante_progetto\VS_windows_form\pulsante_RESET\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\Meteo&Tempo.deps.json
+C:\Users\Miriana\Desktop\funzionante_progetto\VS_windows_form\pulsante_RESET\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\Meteo&Tempo.runtimeconfig.json
+C:\Users\Miriana\Desktop\funzionante_progetto\VS_windows_form\pulsante_RESET\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\Meteo&Tempo.dll
+C:\Users\Miriana\Desktop\funzionante_progetto\VS_windows_form\pulsante_RESET\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\Meteo&Tempo.pdb
+C:\Users\Miriana\Desktop\funzionante_progetto\VS_windows_form\pulsante_RESET\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Miriana\Desktop\funzionante_progetto\VS_windows_form\pulsante_RESET\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Miriana\Desktop\funzionante_progetto\VS_windows_form\pulsante_RESET\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Miriana\Desktop\funzionante_progetto\VS_windows_form\pulsante_RESET\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Miriana\Desktop\funzionante_progetto\VS_windows_form\pulsante_RESET\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Miriana\Desktop\funzionante_progetto\VS_windows_form\pulsante_RESET\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\LiveCharts.WinForms.dll
+C:\Users\Miriana\Desktop\funzionante_progetto\VS_windows_form\pulsante_RESET\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+C:\Users\Miriana\Desktop\funzionante_progetto\VS_windows_form\pulsante_RESET\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\LiveCharts.dll
+C:\Users\Miriana\Desktop\funzionante_progetto\VS_windows_form\pulsante_RESET\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Miriana\Desktop\funzionante_progetto\VS_windows_form\pulsante_RESET\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Miriana\Desktop\funzionante_progetto\VS_windows_form\pulsante_RESET\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Miriana\Desktop\funzionante_progetto\VS_windows_form\pulsante_RESET\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Miriana\Desktop\funzionante_progetto\VS_windows_form\pulsante_RESET\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Miriana\Desktop\funzionante_progetto\VS_windows_form\pulsante_RESET\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Miriana\Desktop\funzionante_progetto\VS_windows_form\pulsante_RESET\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Miriana\Desktop\funzionante_progetto\VS_windows_form\pulsante_RESET\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Miriana\Desktop\funzionante_progetto\VS_windows_form\pulsante_RESET\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.csproj.AssemblyReference.cache
+C:\Users\Miriana\Desktop\funzionante_progetto\VS_windows_form\pulsante_RESET\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo_Tempo.Form1.resources
+C:\Users\Miriana\Desktop\funzionante_progetto\VS_windows_form\pulsante_RESET\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo_Tempo.Form_chart.resources
+C:\Users\Miriana\Desktop\funzionante_progetto\VS_windows_form\pulsante_RESET\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo_Tempo.Properties.Resources.resources
+C:\Users\Miriana\Desktop\funzionante_progetto\VS_windows_form\pulsante_RESET\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.csproj.GenerateResource.cache
+C:\Users\Miriana\Desktop\funzionante_progetto\VS_windows_form\pulsante_RESET\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miriana\Desktop\funzionante_progetto\VS_windows_form\pulsante_RESET\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.AssemblyInfoInputs.cache
+C:\Users\Miriana\Desktop\funzionante_progetto\VS_windows_form\pulsante_RESET\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.AssemblyInfo.cs
+C:\Users\Miriana\Desktop\funzionante_progetto\VS_windows_form\pulsante_RESET\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.csproj.CoreCompileInputs.cache
+C:\Users\Miriana\Desktop\funzionante_progetto\VS_windows_form\pulsante_RESET\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.csproj.CopyComplete
+C:\Users\Miriana\Desktop\funzionante_progetto\VS_windows_form\pulsante_RESET\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.dll
+C:\Users\Miriana\Desktop\funzionante_progetto\VS_windows_form\pulsante_RESET\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\refint\Meteo&Tempo.dll
+C:\Users\Miriana\Desktop\funzionante_progetto\VS_windows_form\pulsante_RESET\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.pdb
+C:\Users\Miriana\Desktop\funzionante_progetto\VS_windows_form\pulsante_RESET\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.genruntimeconfig.cache
+C:\Users\Miriana\Desktop\funzionante_progetto\VS_windows_form\pulsante_RESET\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\ref\Meteo&Tempo.dll
+C:\Users\Miriana\Desktop\Project_PHP avanzato\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\Meteo&Tempo.exe
+C:\Users\Miriana\Desktop\Project_PHP avanzato\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\Meteo&Tempo.deps.json
+C:\Users\Miriana\Desktop\Project_PHP avanzato\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\Meteo&Tempo.runtimeconfig.json
+C:\Users\Miriana\Desktop\Project_PHP avanzato\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\Meteo&Tempo.dll
+C:\Users\Miriana\Desktop\Project_PHP avanzato\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\Meteo&Tempo.pdb
+C:\Users\Miriana\Desktop\Project_PHP avanzato\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Miriana\Desktop\Project_PHP avanzato\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Miriana\Desktop\Project_PHP avanzato\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Miriana\Desktop\Project_PHP avanzato\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Miriana\Desktop\Project_PHP avanzato\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Miriana\Desktop\Project_PHP avanzato\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\LiveCharts.WinForms.dll
+C:\Users\Miriana\Desktop\Project_PHP avanzato\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+C:\Users\Miriana\Desktop\Project_PHP avanzato\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\LiveCharts.dll
+C:\Users\Miriana\Desktop\Project_PHP avanzato\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Miriana\Desktop\Project_PHP avanzato\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Miriana\Desktop\Project_PHP avanzato\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Miriana\Desktop\Project_PHP avanzato\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Miriana\Desktop\Project_PHP avanzato\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Miriana\Desktop\Project_PHP avanzato\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Miriana\Desktop\Project_PHP avanzato\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Miriana\Desktop\Project_PHP avanzato\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Miriana\Desktop\Project_PHP avanzato\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.csproj.AssemblyReference.cache
+C:\Users\Miriana\Desktop\Project_PHP avanzato\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo_Tempo.Form1.resources
+C:\Users\Miriana\Desktop\Project_PHP avanzato\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo_Tempo.Form_chart.resources
+C:\Users\Miriana\Desktop\Project_PHP avanzato\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo_Tempo.Properties.Resources.resources
+C:\Users\Miriana\Desktop\Project_PHP avanzato\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.csproj.GenerateResource.cache
+C:\Users\Miriana\Desktop\Project_PHP avanzato\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miriana\Desktop\Project_PHP avanzato\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.AssemblyInfoInputs.cache
+C:\Users\Miriana\Desktop\Project_PHP avanzato\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.AssemblyInfo.cs
+C:\Users\Miriana\Desktop\Project_PHP avanzato\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.csproj.CoreCompileInputs.cache
+C:\Users\Miriana\Desktop\Project_PHP avanzato\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.csproj.CopyComplete
+C:\Users\Miriana\Desktop\Project_PHP avanzato\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.dll
+C:\Users\Miriana\Desktop\Project_PHP avanzato\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\refint\Meteo&Tempo.dll
+C:\Users\Miriana\Desktop\Project_PHP avanzato\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.pdb
+C:\Users\Miriana\Desktop\Project_PHP avanzato\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.genruntimeconfig.cache
+C:\Users\Miriana\Desktop\Project_PHP avanzato\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\ref\Meteo&Tempo.dll
+C:\Users\derem\OneDrive\Desktop\Final-project\Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\Meteo&Tempo.exe
+C:\Users\derem\OneDrive\Desktop\Final-project\Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\Meteo&Tempo.deps.json
+C:\Users\derem\OneDrive\Desktop\Final-project\Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\Meteo&Tempo.runtimeconfig.json
+C:\Users\derem\OneDrive\Desktop\Final-project\Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\Meteo&Tempo.dll
+C:\Users\derem\OneDrive\Desktop\Final-project\Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\Meteo&Tempo.pdb
+C:\Users\derem\OneDrive\Desktop\Final-project\Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\derem\OneDrive\Desktop\Final-project\Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\derem\OneDrive\Desktop\Final-project\Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\derem\OneDrive\Desktop\Final-project\Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\derem\OneDrive\Desktop\Final-project\Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\derem\OneDrive\Desktop\Final-project\Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\LiveCharts.WinForms.dll
+C:\Users\derem\OneDrive\Desktop\Final-project\Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+C:\Users\derem\OneDrive\Desktop\Final-project\Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\LiveCharts.dll
+C:\Users\derem\OneDrive\Desktop\Final-project\Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\derem\OneDrive\Desktop\Final-project\Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\derem\OneDrive\Desktop\Final-project\Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\derem\OneDrive\Desktop\Final-project\Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\derem\OneDrive\Desktop\Final-project\Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\derem\OneDrive\Desktop\Final-project\Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\derem\OneDrive\Desktop\Final-project\Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\derem\OneDrive\Desktop\Final-project\Project_Meteo\Meteo&Tempo\Meteo&Tempo\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\derem\OneDrive\Desktop\Final-project\Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.csproj.AssemblyReference.cache
+C:\Users\derem\OneDrive\Desktop\Final-project\Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo_Tempo.Form1.resources
+C:\Users\derem\OneDrive\Desktop\Final-project\Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo_Tempo.Form_chart.resources
+C:\Users\derem\OneDrive\Desktop\Final-project\Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo_Tempo.Properties.Resources.resources
+C:\Users\derem\OneDrive\Desktop\Final-project\Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.csproj.GenerateResource.cache
+C:\Users\derem\OneDrive\Desktop\Final-project\Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\derem\OneDrive\Desktop\Final-project\Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.AssemblyInfoInputs.cache
+C:\Users\derem\OneDrive\Desktop\Final-project\Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.AssemblyInfo.cs
+C:\Users\derem\OneDrive\Desktop\Final-project\Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.csproj.CoreCompileInputs.cache
+C:\Users\derem\OneDrive\Desktop\Final-project\Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Te.D5F20387.Up2Date
+C:\Users\derem\OneDrive\Desktop\Final-project\Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.dll
+C:\Users\derem\OneDrive\Desktop\Final-project\Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\refint\Meteo&Tempo.dll
+C:\Users\derem\OneDrive\Desktop\Final-project\Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.pdb
+C:\Users\derem\OneDrive\Desktop\Final-project\Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\Meteo&Tempo.genruntimeconfig.cache
+C:\Users\derem\OneDrive\Desktop\Final-project\Project_Meteo\Meteo&Tempo\Meteo&Tempo\obj\Debug\net8.0-windows\ref\Meteo&Tempo.dll
